@@ -1,0 +1,145 @@
+
+/**{
+    margin:0;
+    padding:0;
+    height:auto;
+    width:auto;
+    }*/
+body {
+    background: #fff;
+    font-family: 'Open Sans', sans-serif;
+    color: #4e4e4e;
+    line-height: 22px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    color: #4e4e4e;
+}
+
+h1 {
+    font-size: 36px;
+/*    color: #fff;*/
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 16px;
+    color: #787878;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+img{
+    max-width: 100%;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+a {
+    color: black;
+    -webkit-transition: color 300ms, background-color 300ms;
+    transition: color 300ms, background-color 300ms;
+}
+
+a:hover,
+a:focus {
+    color: #EC5538;
+}
+
+hr {
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #fff;
+}
+
+
+a{
+    
+    padding-top: 50px;
+	text-decoration: none;
+}
+
+
+
+.list{
+	display: inline;
+	padding: 50px;
+	margin-top: 10%;
+	margin:0;
+	text-align: right;
+	position: relative;left:250px;top:20px; 
+	font-size: 30px;
+	font-color:white;
+
+}
+.logo{
+	height: 80px;
+    position: relative;right:80px; 
+
+}
+
+.top-bar{
+	background-color: white/*#C0C0C0*/;
+	opacity:0.9;
+}
+.nav-bar{
+	background-color: black;
+	text-align: 
+    opacity:0.3;
+}
+.navbar-nav>li>a{
+	color: white;
+}
+#myCarousel{
+	position: relative;
+}
+.contains
+{
+	height: 400px;
+}
+.navbar-header
+{
+	color: white;
+}
+.navbar-toggle{
+	color: white;
+
+}
+.item{
+    opacity: 0.9;
+}
+
+.icon-bar{
+	color:white;
+    margin-top: 0;
+}
+.heading {text-align: center;}
+.heading h3 {padding: 0 12px;position: relative;display: inline-block;line-height: 34px !important;}
+.heading-v1 h3:before, .heading-v1 h3:after {top: 15px;height: 6px;border-top-style: solid;border-bottom-style: solid;}
+.heading h3:before {right: 100%;}
+.heading h3:after {left: 100%;}
+.heading h3:before, .heading h3:after {content: ' ';width: 20%;position: absolute;border-width: 1px;border-color: #bbb;}
+#para
+{
+    display: inline;
+    position: relative;
+}
+button
+{
+    position: relative;left: 10px;
+    align-self: centre;
+}
+
+
+
